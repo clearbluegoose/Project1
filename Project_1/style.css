@@ -1,0 +1,120 @@
+.figure1 {
+    border: 2px; 
+    border-style:solid;
+    border-color: blueviolet;
+    
+}
+
+.figcaption1 {
+    
+    color: white;
+    font-style: italic;
+    padding: 2px;
+    
+  }
+
+  .div1 {
+    background-color: pink;
+    border-color: black;
+    border-width: medium;
+  }
+
+  .div2 {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+
+
+  #aleft {text-align: left;}  
+    
+  #acenter {text-align: center;}  
+   
+  #aright{text-align: right;}
+
+
+
+  #fleft {float: left;}  
+    
+  #fcenter {float: center;}  
+   
+  #fright{float: right;}
+
+
+  span.a {
+    display: inline; /* the default for span */
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;  
+    background-color: yellow; 
+  }
+  
+  span.b {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;    
+    background-color: yellow; 
+  }
+  
+  span.c {
+    display: block;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;    
+    background-color: yellow; 
+  }
+
+  div.a {
+    display: inline; /* the default for span */
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;  
+    background-color: yellow; 
+  }
+  
+  div.b {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;    
+    background-color: yellow; 
+  }
+  
+  div.c {
+    display: block;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;    
+    background-color: yellow; 
+  }
+
+
+  .nav {
+  
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+  }
+
+
+
+  .centerbox {border-color: blue; background-color: beige; border-width: 10px;} 
+
+  .logo{
+  float:left;
+  background-color: lightpink;}
